@@ -11,5 +11,5 @@
 
 
 ### My statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximGit1&hide_progress=false)](https://t.me/tui971umou7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximGit1&hide_progress=false)](https://t.me/umou7)
 
