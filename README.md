@@ -1,5 +1,3 @@
-![uhm](./.a/image.png)
-
-<br><br><br>
+## Python & Go
 
 ![LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/OWLYyEhheG?theme=neutral)
